@@ -6,4 +6,4 @@ This report aims to determine the most efficient way that can be obtained throug
 * **Daniel Alvarado Pelaéz** 
 * **Marcelo Mendoza Hidalgo** 
 * **Bryan Cali Loaiza** 
-* **Kevin Lopez ** 
+* **Kevin Lopez** 
